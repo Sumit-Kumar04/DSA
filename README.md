@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-Kumar04/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-Kumar04/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumit-Kumar04/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
