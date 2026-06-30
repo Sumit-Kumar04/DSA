@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-Kumar04/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
