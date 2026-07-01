@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sumit-Kumar04/DSA/tree/master/0036-valid-sudoku) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sumit-Kumar04/DSA/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Sumit-Kumar04/DSA/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0763-partition-labels](https://github.com/Sumit-Kumar04/DSA/tree/master/0763-partition-labels) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sumit-Kumar04/DSA/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
