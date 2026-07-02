@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Sumit-Kumar04/DSA/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumit-Kumar04/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumit-Kumar04/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sumit-Kumar04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0763-partition-labels](https://github.com/Sumit-Kumar04/DSA/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumit-Kumar04/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sumit-Kumar04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sumit-Kumar04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
