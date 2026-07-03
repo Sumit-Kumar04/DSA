@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sumit-Kumar04/DSA/tree/master/0076-minimum-window-substring) |
+| [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
 | [0763-partition-labels](https://github.com/Sumit-Kumar04/DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Sumit-Kumar04/DSA/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumit-Kumar04/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sumit-Kumar04/DSA/tree/master/0062-unique-paths) |
+| [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sumit-Kumar04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
