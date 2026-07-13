@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumit-Kumar04/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Sumit-Kumar04/DSA/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sumit-Kumar04/DSA/tree/master/0785-is-graph-bipartite) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumit-Kumar04/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumit-Kumar04/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
