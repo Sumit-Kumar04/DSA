@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-Kumar04/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sumit-Kumar04/DSA/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sumit-Kumar04/DSA/tree/master/2427-number-of-common-factors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sumit-Kumar04/DSA/tree/master/2427-number-of-common-factors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
