@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sumit-Kumar04/DSA/tree/master/0036-valid-sudoku) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/Sumit-Kumar04/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sumit-Kumar04/DSA/tree/master/0062-unique-paths) |
+| [0322-coin-change](https://github.com/Sumit-Kumar04/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
 | [1049-last-stone-weight-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1049-last-stone-weight-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Sumit-Kumar04/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Sumit-Kumar04/DSA/tree/master/0785-is-graph-bipartite) |
