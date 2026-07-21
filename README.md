@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sumit-Kumar04/DSA/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/Sumit-Kumar04/DSA/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sumit-Kumar04/DSA/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/Sumit-Kumar04/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumit-Kumar04/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/0518-coin-change-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Sumit-Kumar04/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sumit-Kumar04/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
