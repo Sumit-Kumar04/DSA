@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Sumit-Kumar04/DSA/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/Sumit-Kumar04/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
 | [1046-last-stone-weight](https://github.com/Sumit-Kumar04/DSA/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1260-shift-2d-grid](https://github.com/Sumit-Kumar04/DSA/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/Sumit-Kumar04/DSA/tree/master/1260-shift-2d-grid) |
 ## Depth-First Search
 |  |
 | ------- |
