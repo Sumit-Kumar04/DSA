@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Sumit-Kumar04/DSA/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/Sumit-Kumar04/DSA/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sumit-Kumar04/DSA/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0763-partition-labels](https://github.com/Sumit-Kumar04/DSA/tree/master/0763-partition-labels) |
+| [1331-rank-transform-of-an-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sumit-Kumar04/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sumit-Kumar04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
