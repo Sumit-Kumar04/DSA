@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sumit-Kumar04/DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Sumit-Kumar04/DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Sumit-Kumar04/DSA/tree/master/0844-backspace-string-compare) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumit-Kumar04/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sumit-Kumar04/DSA/tree/master/0036-valid-sudoku) |
+| [0189-rotate-array](https://github.com/Sumit-Kumar04/DSA/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sumit-Kumar04/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Sumit-Kumar04/DSA/tree/master/0322-coin-change) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sumit-Kumar04/DSA/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Sumit-Kumar04/DSA/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Sumit-Kumar04/DSA/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
