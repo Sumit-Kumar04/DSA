@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit-Kumar04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-Kumar04/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/Sumit-Kumar04/DSA/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Sumit-Kumar04/DSA/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/Sumit-Kumar04/DSA/tree/master/1260-shift-2d-grid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sumit-Kumar04/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit-Kumar04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sumit-Kumar04/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sumit-Kumar04/DSA/tree/master/2427-number-of-common-factors) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumit-Kumar04/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sumit-Kumar04/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/Sumit-Kumar04/DSA/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sumit-Kumar04/DSA/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
@@ -224,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sumit-Kumar04/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sumit-Kumar04/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
