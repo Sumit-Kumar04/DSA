@@ -24,10 +24,24 @@ class Solution {
     public int minDistance(String word1, String word2) {
         n=word1.length();
         m=word2.length();
-        for(int arr[]:dp){
-            Arrays.fill(arr,-1);
+        
+
+        for(int i=0;i<n+1;i++){
+            for(int j=0;j<m+1;j++){
+                if(i==0 || j==0){
+                    dp[i][j]=i+j;
+                }
+                else if(word1.charAt(i-1)==word2.charAt(j-1)){
+                    dp[i][j]=dp[i-1][j-1];
+                }else{
+                int insert=dp[i][j-1];
+                int delete=dp[i-1][j];
+                int replace=dp[i-1][j-1];
+                dp[i][j]=1+Math.min(insert,Math.min(delete,replace));
+                }
+            }
         }
-       return recu(word1,word2,n,m);
+       return dp[n][m];
        
     }
 }
