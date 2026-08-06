@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sumit-Kumar04/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sumit-Kumar04/DSA/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumit-Kumar04/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Sumit-Kumar04/DSA/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Sumit-Kumar04/DSA/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
