@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Sumit-Kumar04/DSA/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sumit-Kumar04/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Sumit-Kumar04/DSA/tree/master/1406-stone-game-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sumit-Kumar04/DSA/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sumit-Kumar04/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Sumit-Kumar04/DSA/tree/master/1406-stone-game-iii) |
 ## Combinatorics
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Sumit-Kumar04/DSA/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sumit-Kumar04/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Depth-First Search
 |  |
 | ------- |
