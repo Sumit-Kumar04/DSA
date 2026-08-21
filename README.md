@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sumit-Kumar04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sumit-Kumar04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sumit-Kumar04/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sumit-Kumar04/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sumit-Kumar04/DSA/tree/master/2427-number-of-common-factors) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sumit-Kumar04/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumit-Kumar04/DSA/tree/master/3536-maximum-product-of-two-digits) |
