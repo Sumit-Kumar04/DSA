@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sumit-Kumar04/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumit-Kumar04/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sumit-Kumar04/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1927-sum-game](https://github.com/Sumit-Kumar04/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sumit-Kumar04/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sumit-Kumar04/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sumit-Kumar04/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sumit-Kumar04/DSA/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Sumit-Kumar04/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sumit-Kumar04/DSA/tree/master/2427-number-of-common-factors) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sumit-Kumar04/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Sumit-Kumar04/DSA/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-Kumar04/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Sumit-Kumar04/DSA/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sumit-Kumar04/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sumit-Kumar04/DSA/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Sumit-Kumar04/DSA/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
