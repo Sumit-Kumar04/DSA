@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sumit-Kumar04/DSA/tree/master/1406-stone-game-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2951-find-the-peaks](https://github.com/Sumit-Kumar04/DSA/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumit-Kumar04/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Sumit-Kumar04/DSA/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Sumit-Kumar04/DSA/tree/master/2427-number-of-common-factors) |
+| [2951-find-the-peaks](https://github.com/Sumit-Kumar04/DSA/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
