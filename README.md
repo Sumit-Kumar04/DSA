@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sumit-Kumar04/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit-Kumar04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Sumit-Kumar04/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sumit-Kumar04/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sumit-Kumar04/DSA/tree/master/1406-stone-game-iii) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-Kumar04/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sumit-Kumar04/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sumit-Kumar04/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
