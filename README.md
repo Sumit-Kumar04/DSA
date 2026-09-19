@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sumit-Kumar04/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Sumit-Kumar04/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sumit-Kumar04/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sumit-Kumar04/DSA/tree/master/0076-minimum-window-substring) |
 | [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumit-Kumar04/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sumit-Kumar04/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Sumit-Kumar04/DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0064-minimum-path-sum) |
 | [0189-rotate-array](https://github.com/Sumit-Kumar04/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sumit-Kumar04/DSA/tree/master/0217-contains-duplicate) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Sumit-Kumar04/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Sumit-Kumar04/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sumit-Kumar04/DSA/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Sumit-Kumar04/DSA/tree/master/0217-contains-duplicate) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sumit-Kumar04/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sumit-Kumar04/DSA/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit-Kumar04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
