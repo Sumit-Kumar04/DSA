@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sumit-Kumar04/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sumit-Kumar04/DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sumit-Kumar04/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sumit-Kumar04/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sumit-Kumar04/DSA/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Sumit-Kumar04/DSA/tree/master/0125-valid-palindrome) |
 | [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Sumit-Kumar04/DSA/tree/master/0763-partition-labels) |
