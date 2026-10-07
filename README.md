@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Sumit-Kumar04/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sumit-Kumar04/DSA/tree/master/0125-valid-palindrome) |
 | [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Sumit-Kumar04/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Sumit-Kumar04/DSA/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Sumit-Kumar04/DSA/tree/master/0844-backspace-string-compare) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sumit-Kumar04/DSA/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Sumit-Kumar04/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sumit-Kumar04/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Sumit-Kumar04/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sumit-Kumar04/DSA/tree/master/0733-flood-fill) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Sumit-Kumar04/DSA/tree/master/0077-combinations) |
 | [0282-expression-add-operators](https://github.com/Sumit-Kumar04/DSA/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Sumit-Kumar04/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Database
 |  |
