@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sumit-Kumar04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sumit-Kumar04/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sumit-Kumar04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2951-find-the-peaks](https://github.com/Sumit-Kumar04/DSA/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumit-Kumar04/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumit-Kumar04/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-Kumar04/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Sumit-Kumar04/DSA/tree/master/1927-sum-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sumit-Kumar04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-Kumar04/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sumit-Kumar04/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sumit-Kumar04/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumit-Kumar04/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sumit-Kumar04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumit-Kumar04/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumit-Kumar04/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumit-Kumar04/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Sumit-Kumar04/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sumit-Kumar04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Sumit-Kumar04/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Enumeration
 |  |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sumit-Kumar04/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Sumit-Kumar04/DSA/tree/master/1046-last-stone-weight) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sumit-Kumar04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
